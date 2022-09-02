@@ -1,0 +1,11 @@
+.bg-image {
+    background-size: cover;
+    min-height: 100vh;
+    position: relative;
+    filter: grayscale(0.7) opacity(0.8);
+    
+}
+
+.form-container {
+    position: absolute;
+}
